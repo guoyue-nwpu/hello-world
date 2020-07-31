@@ -1,2 +1,3 @@
 # hello-world
-just a repository
+
+I want to learn deep learning using python.
